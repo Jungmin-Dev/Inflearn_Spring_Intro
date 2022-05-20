@@ -2,7 +2,7 @@
 <b>인프런</b><br>
 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술(김영한님)
 
-# Intellij 단축키 
+## Intellij 단축키 
 - ctrl + p : 옵션 목록
 - alt + shift + 방향키 : 한 줄 이동
 - ctrl + shift + 방향키 : 구문 이동
